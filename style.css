@@ -1,0 +1,49 @@
+body {background: gray;
+
+}
+
+/* display inline serve para organizar a lista horizontalmente */
+
+li    {display: inline;
+	   
+
+
+}
+
+#menu{ width: 70%;
+       height: 80px;
+       background-color: gray;
+       padding-top: 3px;
+       font-family: helvetica, arial;
+       color: #DCDCDC;
+       
+}
+
+
+#sobre_anna{ width: 70%;
+	         height: auto;
+	         background-color: white;
+	         padding-top: 3px;
+
+}
+
+h2 {color: gray;
+	text-shadow: -1px, -1px, -1px, -1px;
+    
+}
+
+#copywright {text-align: center;
+	         width: 70%;
+
+}
+
+
+
+
+
+
+
+  
+      
+
+
