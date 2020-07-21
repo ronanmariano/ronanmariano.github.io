@@ -8,42 +8,56 @@ li    {display: inline;
 	   
 
 
+
+
 }
 
 #menu{ width: 70%;
-       height: 80px;
-       background-color: gray;
-       padding-top: 3px;
+       height: 50px;
+       background-color:#CCCCFF;
+       padding: 2px 0px 2px 0px;
        font-family: helvetica, arial;
        color: #DCDCDC;
+       font-weight: bold;
        
 }
 
 
 #sobre_anna{ width: 70%;
 	         height: auto;
-	         background-color: white;
+	         background-color: #e8e8d9;
 	         padding-top: 3px;
+
 
 }
 
-h2 {color: gray;
-	text-shadow: -1px, -1px, -1px, -1px;
+h2 {color: #828271;
+	font-size: 1.2em;
+	
     
 }
 
 #copywright {text-align: center;
 	         width: 70%;
 
+
+}
+
+a { color: #4b566a;
+	text-decoration: none;
+	
+
+
 }
 
 
+.padrao { width:70%;
 
 
+}
 
 
-
-  
-      
+#campanha { border: 10px solid: red;
 
 
+}
